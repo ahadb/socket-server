@@ -1,0 +1,19 @@
+{
+  "name": "socket-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start:server": "index.js"
+  },
+  "keywords": [],
+  "author": "Ahad Bokhari <ahadbokhari@gmail.com> (http://ahadb.com)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "faker": "^5.5.2",
+    "socket.io": "^4.0.0",
+    "socket.io-client": "^4.0.0"
+  }
+}
